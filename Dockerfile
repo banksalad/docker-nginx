@@ -1,4 +1,4 @@
-FROM nginx:1.17.4
+FROM nginx:1.17.9
 
 LABEL maintainer="Rainist Engineering <engineering@rainist.com>"
 
